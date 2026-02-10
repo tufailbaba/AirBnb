@@ -1,10 +1,7 @@
-/** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   content: [
-    './app/views/**/*.{erb,html}',
-    './app/helpers/**/*.rb',
-    './app/assets/stylesheets/**/*.css',
-    './app/javascript/**/*.js'
+    '/mnt/c/Users/Tufail/Desktop/AirBnb/app/views/**/*.erb',
+    '/mnt/c/Users/Tufail/Desktop/AirBnb/app/javascript/**/*.js'
   ],
   theme: {
     extend: {},
