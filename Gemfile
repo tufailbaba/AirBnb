@@ -54,4 +54,9 @@ end
 group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem "web-console"
+
+  # Foreman process manager for running multiple processes
+  gem "foreman", require: false
 end
+
+gem "tailwindcss-rails", "~> 4.4"
