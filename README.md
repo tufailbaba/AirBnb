@@ -1,24 +1,62 @@
-# README
+# AirBnb
+🏡 Airbnb Clone (Ruby on Rails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a full-stack Airbnb-inspired web application developed using Ruby on Rails as part of a practical learning journey into Rails development. The application is designed to help understand how real-world web platforms are structured while gaining hands-on experience with Rails conventions, MVC architecture, and database-driven applications.
 
-Things you may want to cover:
+The project focuses on building a scalable and maintainable codebase by implementing core Rails concepts such as models, controllers, views, routing, and ActiveRecord. PostgreSQL is used as the primary database, and the frontend is built with standard web technologies to create a clean and responsive user interface.
 
-* Ruby version
+🎯 Project Objective
 
-* System dependencies
+The primary objective of this project is to:
 
-* Configuration
+Learn and understand Ruby on Rails fundamentals
 
-* Database creation
+Gain practical experience with MVC architecture
 
-* Database initialization
+Work with relational databases using PostgreSQL
 
-* How to run the test suite
+Build real-world features similar to a booking platform
 
-* Services (job queues, cache servers, search engines, etc.)
+Improve full-stack development skills through hands-on practice
 
-* Deployment instructions
+🛠 Tech Stack
 
-* ...
+Backend: Ruby on Rails
+
+Frontend: HTML, CSS, JavaScript
+
+Database: PostgreSQL
+
+Version Control: Git & GitHub
+
+🚀 Features
+
+User authentication and authorization (in progress)
+
+Property listings and details
+
+Basic booking workflow
+
+Database relationships and validations
+
+RESTful routing and controllers
+
+Responsive user interface
+
+Additional features will be added as the project evolves.
+
+📚 Learning Focus
+
+This project is used to strengthen understanding of:
+
+Rails project structure and conventions
+
+Models, migrations, and associations
+
+Controllers, routes, and views
+
+ActiveRecord queries and validations
+
+Debugging and error handling
+
+Full-stack application flow
