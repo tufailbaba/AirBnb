@@ -20,9 +20,12 @@
 
     <%# Includes all stylesheet files in app/assets/stylesheets %>
     <%= stylesheet_link_tag :app, "data-turbo-track": "reload" %>
+    <%= stylesheet_link_tag "tailwind", "data-turbo-track": "reload" %>
   </head>
 
   <body>
-    <%= yield %>
+    
+      <%= yield %>
+    </main>
   </body>
 </html>
