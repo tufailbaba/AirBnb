@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --color-primary: #FF5A5F;
+  --color-primary-dark: #FF385C;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --spacing-128: 32rem;
+  --spacing-144: 36rem;
+  --radius-4xl: 2rem;
+}
