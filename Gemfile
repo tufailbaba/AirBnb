@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
-gem "devise", "~> 4.9", ">= 4.9.3"
+gem "devise", "~> 5.0"
 
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
